@@ -1,0 +1,214 @@
+#hpbody {
+    font-family: Goldman;
+    background-image: url(/p1-css-html/3.1-4.3/img/background.jpeg);
+    height: 700px;
+    width:auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-weight: bold;
+    align-items: center;
+}
+
+#hpagina {
+    font-size: 75px;
+    margin-top: 300px;
+    margin-left: 375px;
+    color:white;
+}
+
+nav {
+    background-color: #00A8C7;
+    width: 100%;
+    height: 75px;
+    margin-top: -18px;
+}
+
+ul {
+    list-style: none;
+    display:flex;
+}
+
+.list {
+    list-style: none;
+    display:flex;
+    margin-left: 535px;
+    margin-top: 15px;
+}
+.nava {
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    margin-left: 65px;
+}
+
+
+.div2 {
+    background-color: #00A8C7;
+    width: 100%;
+    height: 150px;
+}
+
+.wbg {
+    font-family: Goldman;
+    margin: 0;
+    padding: 0;
+}
+
+.dbg {    
+    font-family: Goldman;
+    background-color: #151515;
+    color:white;
+    margin: 0;
+    padding: 0;
+}
+
+footer {
+    background-color: #00A8C7;
+    width: 100%;
+    color:white;
+    margin-top: 274px;
+    height:115px;
+}
+
+.footertext {
+    font-size: 25px;
+    margin-left: 650px;
+    padding-top: 45px;
+}
+
+.paginatitel {
+    font-size:50px;
+    margin-left: 750px;
+    margin-top: 65px;
+}
+
+h3 {
+    margin-left: 915px;
+    font-size:30px;
+    width: 500px;
+    margin-top: 40px;
+}
+
+#kleur1 {
+    color: #0071BB;
+}
+
+#kleur2 {
+    color: #E44D27;
+}
+
+.uitlegtekst {
+    margin-left: 918px;
+    max-width: 500px;
+    margin-top: 40px;
+}
+
+.taallogo {
+    margin-top: -300px;
+    margin-left: 400px;
+    width:400px;
+    height: auto;
+}
+
+form {
+    margin-left: 675px;
+    margin-top: 40px;
+}
+
+input {
+    width: 500px;
+    margin-bottom:15px;
+    height:25px;
+    border-radius: 3px;
+    border-color: black;
+    border-style: solid 1px;
+}
+
+#contactt {
+    margin-left: 800px;
+}
+
+#bericht {
+    height: 150px;
+    margin:0;
+    padding:0;
+    vertical-align: top;
+}
+
+#versturen {
+    border-style: none;
+    background-color: #00A8C7;
+    color:white;
+    font-family:Goldman;
+    font-size: 20px;
+    margin-top: 35px;
+    height: 40px;
+    font-weight: lighter;
+}
+
+#javascriptt {
+    margin-left: 750px;
+}
+
+#jslogo {
+    width:300px;
+    height:auto;
+}
+
+#phpt {
+    margin-left: 840px;
+}
+
+#phpfooter {
+    margin-top: 300px;
+}
+
+#jsfooter {
+    margin-top: 310px;
+}
+
+.dropbtn {
+    background-color: #00A8C7;
+    color: white;
+    padding: 16px;
+    font-size: 30px;
+    border: none;
+    font-family:Goldman;
+    margin-left:15px;
+    padding-bottom: 23px;
+  }
+
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #ffffff;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    margin-left: 15px;
+    width: 185px;
+  }
+
+  .dropdown-content a {
+    color: #00A8C7;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    font-size: 20px;
+  }
+
+  .dropdown-content a:hover {background-color: #ddd;}
+
+  .dropdown:hover .dropdown-content {display: block;}
+
+  .dropdown:hover .dropbtn {background-color: #ffffff; color: #00A8C7;} 
